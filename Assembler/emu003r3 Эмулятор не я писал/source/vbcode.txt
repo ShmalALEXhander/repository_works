@@ -1,3 +1,0 @@
-Build under Windows XP
-with Visual Basic 6.0
-32 bit

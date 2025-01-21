@@ -1,4 +1,0 @@
-MicroAsm.dll is used mostly for FPU emulation
-
-Built with FASM 1.64 for Windows
-
