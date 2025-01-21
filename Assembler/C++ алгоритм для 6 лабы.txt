@@ -1,0 +1,37 @@
+#include <iostream>
+#include <string>
+#include <windows.h>
+using namespace std;
+
+int main()
+{
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
+    string str, final;
+    cout << "Введите строку->";
+    getline(cin, str);
+    int max = 8;//макс размер 
+    cout << "\nВведите максимальный размер строки->" << max;
+    int lenght = str.length();
+    //cin >> max;
+    if (lenght >= max) {
+        int i = 0;
+        while (i != max) {
+            final += str[i];               //переделать под do while
+            i++;
+        }
+        cout << "\n" << final;
+    }
+    else if (lenght < max) {
+        int tmp;// временная переменная отступ от конца строки БЕЗ УЧЁТА СИМВОЛА КОНЦА СТРОКИ
+        tmp = max - lenght + 1; //Из-за использования tmp не дохожу до max
+        final = str;
+        while (tmp != max) {
+            final += '0';
+            tmp++;
+        }
+        cout << "\n" << final;
+    }
+    // замемсетить чтобы добавить функцию while
+}
+
