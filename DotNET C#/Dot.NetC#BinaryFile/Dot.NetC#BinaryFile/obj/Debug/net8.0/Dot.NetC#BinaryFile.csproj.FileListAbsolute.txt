@@ -1,0 +1,14 @@
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\bin\Debug\net8.0\Dot.NetC#BinaryFile.exe
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\bin\Debug\net8.0\Dot.NetC#BinaryFile.deps.json
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\bin\Debug\net8.0\Dot.NetC#BinaryFile.runtimeconfig.json
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\bin\Debug\net8.0\Dot.NetC#BinaryFile.dll
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\bin\Debug\net8.0\Dot.NetC#BinaryFile.pdb
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\Dot.NetC#BinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\Dot.NetC#BinaryFile.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\Dot.NetC#BinaryFile.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\Dot.NetC#BinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\Dot.NetC#BinaryFile.dll
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\refint\Dot.NetC#BinaryFile.dll
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\Dot.NetC#BinaryFile.pdb
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\Dot.NetC#BinaryFile.genruntimeconfig.cache
+C:\Users\Александр\source\repos\Dot.NetC#BinaryFile\Dot.NetC#BinaryFile\obj\Debug\net8.0\ref\Dot.NetC#BinaryFile.dll

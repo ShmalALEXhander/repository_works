@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#Dot.NET8.3Finlishe/1.0.0": {
+        "runtime": {
+          "C#Dot.NET8.3Finlishe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#Dot.NET8.3Finlishe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

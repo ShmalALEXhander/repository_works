@@ -1,0 +1,14 @@
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\bin\Debug\net8.0\C#Dot.NET8.3Final.exe
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\bin\Debug\net8.0\C#Dot.NET8.3Final.deps.json
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\bin\Debug\net8.0\C#Dot.NET8.3Final.runtimeconfig.json
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\bin\Debug\net8.0\C#Dot.NET8.3Final.dll
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\bin\Debug\net8.0\C#Dot.NET8.3Final.pdb
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\C#Dot.NET8.3Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\C#Dot.NET8.3Final.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\C#Dot.NET8.3Final.AssemblyInfo.cs
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\C#Dot.NET8.3Final.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\C#Dot.NET8.3Final.dll
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\refint\C#Dot.NET8.3Final.dll
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\C#Dot.NET8.3Final.pdb
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\C#Dot.NET8.3Final.genruntimeconfig.cache
+C:\Users\Александр\source\repos\C#Dot.NET8.3Final\C#Dot.NET8.3Final\obj\Debug\net8.0\ref\C#Dot.NET8.3Final.dll
