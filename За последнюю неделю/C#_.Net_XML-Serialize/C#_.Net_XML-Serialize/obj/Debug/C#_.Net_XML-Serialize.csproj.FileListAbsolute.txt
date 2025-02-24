@@ -1,0 +1,10 @@
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\obj\Debug\C#_.Net_XML-Serialize.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\obj\Debug\C__.Net_XML_Serialize.MainForm.resources
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\obj\Debug\C__.Net_XML_Serialize.Properties.Resources.resources
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\obj\Debug\C#_.Net_XML-Serialize.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\obj\Debug\C#_.Net_XML-Serialize.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\bin\Debug\C#_.Net_XML-Serialize.exe.config
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\bin\Debug\C#_.Net_XML-Serialize.exe
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\bin\Debug\C#_.Net_XML-Serialize.pdb
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\obj\Debug\C#_.Net_XML-Serialize.exe
+C:\Users\Александр\source\repos\C#_.Net_XML-Serialize\C#_.Net_XML-Serialize\obj\Debug\C#_.Net_XML-Serialize.pdb
